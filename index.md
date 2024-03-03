@@ -5,3 +5,6 @@
 >>> print("Hello")
 >>> Hello
 ```
+- [x] Created Markdown
+- [x] Added Image
+- [x] Added Code
